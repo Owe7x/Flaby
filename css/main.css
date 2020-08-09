@@ -156,3 +156,103 @@
   font-weight: 500;
   font-size: 15px;
 }
+
+#unlimited {
+  padding-top: 114px;
+  padding-bottom: 108px;
+  background-image: url(../img/bg_2.png);
+}
+#unlimited .sp-unlimited {
+  padding-top: 23px;
+  color: #7c7c7c;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+}
+#unlimited .h3-unlimited {
+  padding-top: 23px;
+  color: #494949;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+}
+#unlimited .p-unlimited {
+  padding-top: 30px;
+  color: #7c7c7c;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+#unlimited nav {
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+#unlimited nav li {
+  color: #7c7c7c;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  background: url(../img/list_un.png) no-repeat;
+  list-style: none;
+  padding-left: 35px;
+  padding-bottom: 12px;
+}
+#unlimited .button-unlimited {
+  background-color: #66d4f4;
+  -webkit-box-shadow: 0px 10px 16px 0px rgba(102, 212, 244, 0.3);
+          box-shadow: 0px 10px 16px 0px rgba(102, 212, 244, 0.3);
+  width: 150px;
+  height: 50px;
+  border: none;
+  border-radius: 30px;
+  color: white;
+}
+
+#other {
+  padding-bottom: 216px;
+}
+#other .title-other {
+  text-align: center;
+  padding-top: 54px;
+}
+#other .title-other .sp-other {
+  color: #7c7c7c;
+  font-family: "Roboto Slab" serif;
+  font-weight: 400;
+  font-size: 18px;
+  padding-bottom: 11px;
+}
+#other .title-other .h4-other {
+  text-transform: uppercase;
+  color: #494949;
+  font-family: "Roboto Slab" serif;
+  font-weight: 400;
+  font-size: 24px;
+  padding-bottom: 25px;
+}
+#other .title-other .other-line {
+  height: 2px;
+  width: 30px;
+  background-color: #2eb0ec;
+  margin: 0px auto 110px;
+}
+#other img {
+  position: absolute;
+  top: 0;
+}
+#other .block-other {
+  padding-left: 55px;
+}
+#other .block-other .sp-block {
+  color: #494949;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+}
+#other .block-other .p-block {
+  padding-top: 20px;
+  color: #7c7c7c;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+}
