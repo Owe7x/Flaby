@@ -209,7 +209,7 @@
 }
 
 #other {
-  padding-bottom: 216px;
+  padding-bottom: 116px;
 }
 #other .title-other {
   text-align: center;
@@ -255,4 +255,71 @@
   font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 14px;
+}
+
+#custome {
+  background-image: url(../img/bg_3.png);
+  padding-bottom: 116px;
+  height: 757px;
+}
+#custome .title-custome {
+  padding-top: 50px;
+  text-align: center;
+}
+#custome .title-custome .title-1 {
+  color: #7c7c7c;
+  font-family: "Roboto Slab" serif;
+  font-weight: 400;
+  font-size: 18px;
+  padding-bottom: 11px;
+}
+#custome .title-custome .h4-custome {
+  text-transform: uppercase;
+  color: #494949;
+  font-family: "Roboto Slab" serif;
+  font-weight: 400;
+  font-size: 24px;
+  padding-bottom: 20px;
+}
+#custome .title-custome .line {
+  height: 2px;
+  width: 30px;
+  background-color: #2eb0ec;
+  margin: 0px auto 110px;
+}
+#custome .blocks-custome {
+  width: 730px;
+  height: 350px;
+  background-color: white;
+  margin: 0px auto 110px;
+  border: none;
+  border-radius: 30px;
+}
+#custome .blocks-custome .block-custome {
+  text-align: center;
+}
+#custome .blocks-custome .block-custome img {
+  margin: 0px auto;
+}
+#custome .blocks-custome .block-custome .h6-name {
+  color: #494949;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  margin-bottom: 3px;
+}
+#custome .blocks-custome .block-custome .proffesion {
+  color: #7c7c7c;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+}
+#custome .blocks-custome .block-custome .p-custome {
+  color: #7c7c7c;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  padding-top: 30px;
+  width: 570px;
+  margin: 0px auto;
 }
